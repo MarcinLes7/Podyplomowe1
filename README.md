@@ -1,5 +1,5 @@
 # Podyplomowe1
-## Zastosowanie
+## Zastosowanie repozytorium
 *Niniejsze repozytorium służy do zaprezentowania ćwiczenia na obowiązkowe laboratorium Git.*  
 W repozytorium znajduje się prosty programik do wylistowania cyfr od 0 do 100:  
 Jakie mogą być możliwe zastosowania programu?
